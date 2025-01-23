@@ -1,0 +1,17 @@
+h1 { /*Se aplica estilo al encabezado*/
+    color:aquamarine; /*se cambia el color del encabezado*/
+}
+h2 {/* Se aplica estilo al subencabezado*/
+    font-size: 24px; /*Se cambia el tamaño del subencabezado*/
+}
+h3 {/*Se aplica estilo al encabezado de tercer nivel/*
+    margin-bottom: 10px; /*Se aplica un tamaño de margen*/
+}
+p {/* Seaplica estilo al parrafo*/
+    background-color: azure; /* Se aplica un color en el fondo del texto*/
+    color: rgb(77, 233, 85); /* Se cambia el color del texto*/
+}
+a{ /* Se aplica estilo al vinculo*/
+    text-decoration: none; /* Se quita la raya del vinculo*/
+    color: black; /* Se aplica color al vinculo*/
+}
